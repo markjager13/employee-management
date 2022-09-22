@@ -35,8 +35,6 @@ build/
 ### Misc ###
 .DS_Store
 src/.DS_Store
-src/main/resources/application.properties
-src/main/resources/application-dev.properties
 
 ### Frontend ###
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
