@@ -220,7 +220,7 @@ function App() {
             </Content>
             <Footer style={{ textAlign: 'center' }}>
                 <Divider>
-                    <a href="https://markjager.dev/" target="_blank" rel="noreferrer">&copy; Mark J</a>
+                    <a href="https://markjager.dev/" target="_blank" rel="noreferrer">&copy; Mark Jager</a>
                 </Divider>
             </Footer>
         </Layout>
