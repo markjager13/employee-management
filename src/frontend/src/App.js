@@ -218,7 +218,7 @@ function App() {
                     {renderEmployees()}
                 </div>
             </Content>
-            <Footer style={{ textAlign: 'center' }}>By Mark Jager</Footer>
+            <Footer style={{ textAlign: 'center' }}>By Mark J</Footer>
         </Layout>
     </Layout>
 }
