@@ -6,7 +6,7 @@ import {
     Breadcrumb,
     Table,
     Spin,
-    Empty, Button, Tag, Badge, Avatar, Radio, Popconfirm
+    Empty, Button, Tag, Badge, Avatar, Radio, Popconfirm, Divider
 } from 'antd';
 import {
     DesktopOutlined,
@@ -178,7 +178,7 @@ function App() {
                 pagination={{ pageSize: 50 }}
                 scroll={{ y: 500 }}
                 rowKey={(employee) => employee.id}
-            />;
+            />
         </>
     }
 
@@ -218,7 +218,11 @@ function App() {
                     {renderEmployees()}
                 </div>
             </Content>
-            <Footer style={{ textAlign: 'center' }}>By Mark Jager</Footer>
+            <Footer style={{ textAlign: 'center' }}>
+                <Divider>
+                    <a href="https://markjager.dev/" target="_blank" rel="noreferrer">&copy; Mark </a>
+                </Divider>
+            </Footer>
         </Layout>
     </Layout>
 }
