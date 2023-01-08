@@ -15,6 +15,10 @@
   background: rgba(255, 255, 255, 0.3);
 }
 
+#components-layout-demo-side {
+  background: #4cb16f;
+}
+
 .site-layout .site-layout-background {
   background: #fff;
 }

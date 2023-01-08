@@ -39,6 +39,10 @@ src/.DS_Store
 ### Frontend ###
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+### Backend / main ###
+src/main/resources/application-dev.properties
+src/main/resources/application.properties
+
 # dependencies
 **/node
 **/node_modules
