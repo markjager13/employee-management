@@ -14,7 +14,3 @@ Employee Management App allows users to manage a list of employees and to perfor
 * Deployment automation using GitHub Actions
 * Deployment monitoring with Slack notifications
 * Unit and Integration testing
-
-### This project is ongoing...:building_construction:
-
-As I add new features I will update this README to include better descriptions, images, and a live demo link. 
